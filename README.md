@@ -3,4 +3,4 @@ These exercises focus on file and directory manipulation using C# — including 
 
 Note: Although these tasks are part of my main C# Advanced Repository, they have been placed in a separate GitHub repository because all of them were implemented under a single .csproj skeleton project.
 
-Also: The "Ëxercise" directory will contain another skelet project, which is a more complex continuation of the Fundamentals assignments about Streams Files and Directories.
+Also: The "Exercise" directory will contain another skelet project, which is a more complex continuation of the Fundamentals assignments about Streams Files and Directories.
